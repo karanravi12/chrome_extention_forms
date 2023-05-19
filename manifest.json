@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Form Filler",
+    "version": "1.0",
+    "description": "A simple form filler extension.",
+    "permissions": ["tabs", "activeTab", "storage"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Form Filler"
+    }
+  }
+  
